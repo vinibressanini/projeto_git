@@ -1,2 +1,4 @@
 Fazer um aplicativo para a empresa de viagens do meu pai
 Algo que possibilite marcar viagens, compartilhar fotos etc..
+
+André - Eu gosto muito de música e já vi que o Spotify disponibiliza uma API para pesquisar gêneros, artistas e criar aplicações com esses dados. Com isso, pretendo desenvolver um app que gerará playlists com base em algumas perguntas traçando a personalidade da pessoa ou talvez de algum tema específico.
